@@ -1,3 +1,3 @@
 # Programming Fundamental Labs
 
-![Visitor Count](https://glitch.me)
+![Visitors](https://visitorbadge.io)
